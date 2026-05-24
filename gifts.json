@@ -1,0 +1,13 @@
+{
+  "FREEPIKA": {
+    "pokemon": "PIKACHU",
+    "level": 5,
+    "shiny": true
+  },
+
+  "FREEEEVEE": {
+    "pokemon": "EEVEE",
+    "level": 10,
+    "shiny": false
+  }
+}
